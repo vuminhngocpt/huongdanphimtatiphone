@@ -1,7 +1,6 @@
 #### Hướng Dẫn Cài Đặt Cho iPhone 
-
-
-   - ©️2025 Vu Minh Ngoc
+ 
+ - Chú ý : Các ứng dụng chạy trên nền phím tắt tôi phát hành đều không lấy và thu thập dữ liệu cá nhân của bạn , các ứng dụng có ghi bên thứ 3 các bạn lưu ý không phải do tôi phát hành có thể ứng dụng đó lấy thông tin của bạn , bạn nên cân nhắc và chọn nguồn tin cậy để tải nhé 
 
 #### Hướng Dẫn Cài Đặt Ứng Dụng Phím Tắt 
   - Vào cài đặt ứng dụng phím tắt
