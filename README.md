@@ -2,7 +2,7 @@
  
  - Chú ý : ứng dụng chạy trên nên ứng dụng phím tắt của Apple 
 
-#### Hướng Dẫn Cài Đặt Ứng Dụng Phím Tắt 
+#### Hướng Dẫn Cài Đặt Cấu Hình Ứng Dụng Phím Tắt Trên iPhone 
 
   - Vào cài đặt ứng dụng phím tắt
 [![i-Frame-Screenshot-21-48-11-4-25.png](https://i.postimg.cc/QMr7ggz1/i-Frame-Screenshot-21-48-11-4-25.png)](https://postimg.cc/K1J4xTx8)
